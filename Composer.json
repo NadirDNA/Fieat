@@ -1,7 +1,0 @@
-{
-    "name": "monorganisation/fieat",
-    "description": "AI génératrice de programme sportif et nutrionnel",
-    "require": {
-        "vlucas/phpdotenv": "^5.5"
-    }
-}
